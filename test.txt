@@ -1,0 +1,1650 @@
+I want to make a restaurant reservation for 2 people at half past 11 in the morning.
+What city do you want to dine in? Do you have a preferred restaurant?
+Please find restaurants in San Jose. Can you try Sino?
+Confirming: I will reserve a table for 2 people at Sino in San Jose. The reservation time is 11:30 am today.
+Yes, thanks. What's their phone number?
+Your reservation has been made. Their phone number is 408-247-8880.
+What's their address? Do they have vegetarian options on their menu?
+The street address is 377 Santana Row #1000. They have good vegetarian options.
+Thanks very much.
+Is there anything else I can help you with?
+No, that's all. Thanks.
+Have a great day.
+I am not in the mood to cook today. I want to eat out at a restaurant instead.
+Which area would you like me to look in? Which restaurant would you like to eat in and at what time?
+Look for a restaurant in Saratoga. Check to see if I can have a table for 1 at Sipan for 11:30.
+You would like a table for 1 person for today at 11:30 am at the Sipan Peruvian Restaurant & Bar in Saratoga?
+I would like to book at table at Rosie Mccann's for March 2nd.
+You would like me to book a table at Rosie Mccann's Irish Pub & Restaurant for tomorrow?
+I want the eat there on the 4th of this month.
+You would like to reserve a table for 11:30 am for next Monday?
+That would be fine. Is the restaurant costly?
+My apologies. The reservation was unsuccessful. Is there anything else I can assist you with?
+No thanks. You have been very helpful.
+Enjoy your day.
+I want to reserve a table at a restaurant, specifically Bourbon Steak.
+Which location of Bourbon Steak do you want to save a table?
+Find Bourbon Steaks in San Francisco please.
+What time do you want to book the table for?
+Please do it for one in the afternoon.
+Okay. Just to be clear, you want a table at Bourbon Steak Restaurant in San Francisco for 2 people today at 1 pm.
+Yes, that is correct.
+Alright. Your reservation has been made.
+Thanks for your help. That will be it.
+Have a great day.
+I would like to make a restaurant reservation at morning 11:15.
+Which restaurant do you want to go to?
+Can I get a reservation at Andes Cafe?
+Which location do you want to get the reservation at?
+Find a restaurant in San Mateo.
+Please confirm you want to make a reservation for 2 people today at 11:15 am at Andes Cafe San Mateo in San Mateo.
+The reservation is just for 1 person.
+Please confirm you want a reservation for 1 person today.
+That is correct.
+The reservation could not be made. Do you want to make a reservation for 1 person today at 11 am at Andes Cafe San Mateo?
+Not at this time.
+See you soon!
+I want to make a dinner reservation on March 5th.
+What area are you looking in? What time do you want the reservation for?
+I want a restaurant in San Jose, for 18:30, please.
+Which restaurant do you want to book a table at?
+Can you get me a table at Ludwig's German Table?
+So you want a table for 2 people next Tuesday at 6:30 pm at Ludwig's German Table in San Jose?
+Yes, that's right.
+Your table has been reserved.
+What type of food do they serve, and what's the address?
+They serve German food. They are located at 261 North 2nd Street.
+Thanks. That's all.
+Have a nice day.
+I want to make a reservation at a restaurant.
+Okay, I can do that. Is there a particular restaurant that you wish to visit?
+Can you look at Villa Romano in Napa?
+Yes. What time?
+Try for afternoon 12:45.
+No problem, please confirm: reservation for 2 at Villa Romano in Napa, today at 12:45 pm.
+Make it for 4 people.
+Okay, please confirm: reservation for 4 people at Villa Romano.
+Actually, can we change it to Big 4.
+Please confirm: table for 4 people at The Big 4.
+Yes, that's right.
+I'm sorry, I couldn't make that reservation for you. Is there anything else I can help you with today?
+No, that's it.
+Have a great day.
+I need to taste good food , i am very much eager to taste different food varieties from my normal routine food. Will you book a table at a restaurant?
+At which location i should search for and at what time i need to book a table ? whether any special restaurant you like to book a table?
+Find restaurants in SFO and at time 13:00 ? Can you try booking a table at Tuba?
+ok please check and review the details for confirmation. Table need to be booked at Tuba Authentic Turkish Restaurant in the city San francisco at time 1 pm and number of people is 2 for the date is today.
+No Find restaurants in Livermore and Book a table at simply fondue?
+Ok please once again check and review the following details. Table need to be booked at Simply Fondue at the city Livermore.
+Ok That's correct.
+Reservation is successful.
+Thanks a lot for your help. thats all i need
+Take care have a great day
+I want to go out to eat somewhere.
+Do you know what restaurant you would like to go to? Or at least what city you want to eat in?
+I want a restaurant in SF. I heard that a place called Zaoh is really good. I wonder if it has any free seats?
+What time would you like to eat there at?
+I'd love to go there for lunch, so 12 o"clock in the afternoon.
+You want to make a reservation for 2 at Zaoh in San Francisco for 12 pm today. Is that correct?
+No. The reservation should be for 4 people, and it should be for the 8th of this month.
+You want me to book a table for next Friday for 4?
+Yeah. I wonder what I should wear? Is Zaoh an ultra high-end restaurant?
+Sorry, I can't book a table for you. Do you need anything else?
+That's all, thanks.
+Enjoy your day.
+I'd like to make a restaurant reservation.
+What's the restaurant, where is it located, and what time would you like the reservation for?
+It's called House Of Genji and you can look for it in San Jose. I want the reservation for evening 6:15.
+I'll make a reservation for House Of Genji in San Jose today at 6:15 pm for 2 people, is that correct?
+Yeah, that's right. Do they do outdoor seating?
+They don't have outdoor seating. I also was not able to make the reservation. How about today at 6 pm for 2 people at House Of Genji instead?
+That won't work for me.
+Do you any other kinds of help from me?
+No, thanks a lot.
+Okay, have a pleasant day.
+I wanna book a restaurant reservation on the 14th of March
+What restaurant do you want?
+Can you find me a table at Mcdonald's
+What time do you want me to reserve?
+Try for 12:30
+Which branch do you want?
+Find me one in Livermore
+There's a Mcdonald's in Livermore than I can reserve at 12:30 pm for 2 people on March 14th.
+Yes that works, but do they have vegetarian options?
+Your reservation is made, and no they don't have any vegetarian options unfortunately.
+What is their phone number and address?
+It's 925-961-9090 and it's at 805 North Vasco Road
+Thank you so much, that's it for now.
+Sure thing, have a good one
+I want to book a table at a restaurant. Is there anything available at Uncle Yu's. I don't care what date.
+Which location do you want? What time would you prefer?
+Please look in Livermore for a reservation at 7 in the evening. I'd prefer Wednesday next week.
+Confirming: I'm booking a table for 2 at Uncle Yu's At The Vineyard in Livermore, for next Wednesday at 7 pm.
+Sorry, please make it 3 people. Can you look at Mai instead?
+Please confirm: I am booking a table for 3 people at Mai Vietnamese Cuisine.
+Yes, that's correct.
+Sorry, there are no tables available at that time. Can I help you with anything more?
+Can you try again? This time look for 5:15 pm.
+Confirming: I am booking a table for 3 people at Mai Vietnamese Cuisine in Livermore, at 5:15 pm next Wednesday.
+Yes, please. What type of food is on their menu? Do they have vegetarian options?
+Sorry, I was not able to make that reservation. Anything else I can do for you?
+No, that's all. Thanks.
+Have a good day.
+Can you book a table at a restaurant?
+Sure, in which city and which restaurant?
+I would like a table at the Tacolicious in San Jose for 7:30 in the evening.
+Confirm: table for 2 at Tacolicious in San Jose for 7:30 pm today.
+Can you find a table at Isushi in Castro Valley instead please?
+Booking a table at Isushi in Castro Valley.
+Can you make it for the 14th of this month please?
+Yes, the date is March 14th in Castro Valley.
+Yes, that is perfect.
+Your reservation was made.
+Thank you for your assistance.
+Is there anything else you need?
+No, that is all thank you.
+Have a good day.
+I need help with a reservation in a restaurant.
+What is the time of your reservation?
+It's for 6:45 in the evening.
+Where do I have to look for your restaurant?
+Look around San Jose.
+Do you have a favorite restaurant in mind?
+Yes, go for Lalla.
+Read the data and give me the green light. You are looking for a table for 2 at Lalla Grill in San Jose for today at 6:45 pm
+Yes, you can proceed.
+Unfortunately, I can't do that. Do you want me to see if there's a table for 2 available at Lalla Grill today at 6:30 pm?
+Yes, try that.
+This time you got it!
+That's wonderful.
+Do you still need me?
+No I don't, thank you.
+Enjoy your evening out. Bye.
+Can You help me in booking a table for four people at a restaurant?
+Do you have a preference in restaurants?
+Can you look for Taverna restaurant in Sunnyvale?
+What time would you like me to reserve the table for?
+Book the table for evening 5:45.
+Please confirm: You want me to reserve a table for 4 people at Taverna Bistro in Sunnyvale for today at 5:45 pm.
+Yes, That sounds good to me.
+Regretfully I would like you to inform you that your reservation at Taverna Bistro was made. Do you want me to try for 4 people for today at 6 pm?
+No. Don't do thst.
+Is there anything else I can help you with?
+No. That will be all. Thank you.
+I am glad I could help. Have a nice day.
+Please make a dinner reservation in Livermore.
+Which venue do you prefer?
+I like Sai's T.
+What time?
+12:00 please.
+I understand I am making reservations today for 2 at Sai's T Restaurant in Livermore at 12 pm.
+I changed my mind. How about Kiku restaurant.
+You want a table for 2 today at Kiku Sushi. Is that right?
+Exactly. What food type is on the menu?
+Making a reservation was not posible. Is there something else you need?
+No, that's all.
+Have a lovely day.
+Can you help me reserve a table at a restaurant? I'd like to book at Royal Rangoon.
+What time would you like your reservation to be? Which city is the restaurant in?
+I'd like the reservation at quarter to 12 in the morning. The restaurant is in Berkeley.
+So you would like a reservations for 2 at the Royal Rangoon Restaurant in Berkeley? The reservation is today is at 11:45 am.
+No, I'd like to reserve it on the 3rd of this month.
+So you'd like to make a reservation at Royal Rangoon Restaurant the day after tomorrow?
+Yes, that sounds correct. What's the restaurant's rating, and what kind of food do they serve?
+Sorry, I wasn't able to make a reservation. Royal Rangoon Restaurant serves Chinese food and their rating is around 4.5. Should I try to make a reservation for 2 at 12 pm on the day after tomorrow?
+Yes, sounds good.
+Your reservation is confirmed.
+Thank you.
+Is there anything else I can help with?
+No, thank you.
+Have a nice day.
+I am making dinner plans with a friend and would like to book a table at a restaurant.
+Which location shall I search and what time would you like the reservation for?
+The reservation will be for 7 in the evening for a restaurant in SFO.
+Which restaurant would you like?
+Can you try to book it for Kittea Cat?
+You would like a reservation for 2 at at Kittea Cat Cafe in San Francisco for today at 7 pm. Is that correct?
+Yes, that is correct.
+The reservation was successful.
+Thank you. That is all I need for now.
+My pleasure. Have a great day.
+I'd like to book a restaurant table.
+Where should I look?
+Look for restaurants in Albany.
+Is there a particular restaurant you would like to book at?
+I want to try out Kathmandu Restaurant.
+What time do you want the reservation to be?
+Make it at two pm.
+Okay, please confirm these details. You would like to book a table at Kathmandu Restaurant in Albany for 2 people. This reservation is for 2 pm today.
+No, actually I want a table on the 11th of March. Would you try booking at Rokko?
+Okay, so you would like me to book a table at Rokko for March 11th?
+Yes, that is fine. Is the restaurant pricey?
+Sorry, I could not make a reservation. Do you need help with something else?
+No, that is all.
+Have a great day.
+I'd like to find a table for a restaurant in SFO.
+Okay, which restaurant would you like to look at, and when would you like to go?
+I'd like to go to El Tesoro at 11:45 am.
+Please confirm: You'd like a table at El Tesoro Taqueria & grill in San Francisco for 2 people at 11:45 am today.
+Works for me, do they have vegetarian options?
+Reservation made, and yes, they do.
+Thank you very much.
+Do you need anything else?
+Nope, thank you so much.
+Have a great day.
+I haven't eaten there for a while. Can you make a reservation for me at that restaurant for 12:30 pm.
+Sure, but what restaurant are you talking about? And what city is it in?
+Ah, sorry. I want to go to Tonayan in Rohnert Park. I need a reservation for three people.
+You want a reservation at Tonayan in Rohnert Park for 3 at 12:30 pm today. Is that correct?
+Actually, I just remembered my friends aren't big fans of Mexican food, so I'll only need a reservation for one. I'll go somewhere else with them today, so can you book me a table for tomorrow, on the 2nd of March?
+Sure. You want a table for 1 at Tonayan tomorrow?
+Yeah, that's right.
+Your table has been booked.
+Thanks a lot. I don't need anything else.
+Enjoy your day.
+Can you make me a restaurant reservation?
+What time do you want a table for?
+Can you make one for 7:15 pm
+Which city are you interested in?
+Find one in San Jose
+What restaurant would you like to make a reservation at?
+Try to book me a table at Tanchito's on March 8th please
+So a 7:15 pm table for 2 at Tanchito's Restaurant in San Jose next Friday?
+Yes that's food, what kind of cuisine is that?
+Sorry I couldn't book a table actually, can I do anyth`ing else?
+Can you book another table? Find places in Albany.
+How about the Tanchito's Restaurant in Albany next Friday at 7:15 pm for 2?
+No, try the 3rd of March
+Confirming that you want a table at Tanchito's Restaurant for the day after tomorrow
+Yes that's good, do they have outdoor seating?
+Sorry I couldn't book that either, what else can I do?
+Try to book again but at 12:30 pm
+Confirming that you want a 12:30 pm table for 2 at Tanchito's Restaurant in Albany for the day after tomorrow yes?
+Actually I changed my mind, let's try Dickey's
+OK, so a table for 2 at Dickey's Barbecue Pit?
+Yes that's good
+Sorry I couldn't book that either, what else can I do?
+No nothing else for now, thanks for trying
+OK, take care
+I would like to eat something in a restaurant on the 8th of this month.
+Have you thought about the time you want to be there?
+Yes, 1 in the afternoon is fine.
+Do you have a favorite restaurant?
+Yes, see if there's room at Koryo.
+Where is it located?
+It's in Oakland.
+Confirm your request. You need to make a reservation for 2 at Koryo Sushi in Oakland at 1 pm next friday.
+Yes, can you send me the address? Can you also provide me the ratings?
+The reservation has been made. The restaurant is in 4390 Telegraph avenue D and the rating is around 4.0
+Thanks a lot, I'm done.
+Bye sir.
+Hi i need a help, One of my friends coming to this city for meet me, I am looking to book a table at a restaurant for him?
+Sure, I will help you, at what time should i try to book for?
+book at 6:45 pm
+Which city should i search in? Which restaurant do you want to book a table at?
+Try to book a table at Sakana Sushi in SF
+please confirm the following details: Booking a table at Sakana Sushi bar & Grill at San francisco on today 6:45 pm, The reservation for 2 people
+no, book for only one people
+please confirm the following details: The reservation is at 6:45 pm and the reservation for 1 people
+Yes, that's right, what is the address of the restaurant?
+Congrats, your reservation is successful, Restaurant address is 605 Post Street
+Ok, Could you give their phone number?
+Sure, Their phone number is 415-775-7644
+thank you very much for your help, That's all i need.
+you are welcome, Shall i help you with anything more?
+No, thanks, bye
+Have a wonderful day, bye
+Today is my wedding anniversary and I want to book a table at a restaurant as a surprise to my wife.
+I am happy to help. What area would you like me to search for restaurants in?
+I would like it to be close to my wife's office in Oakland.
+Do you have a specific restaurant in mind and what time would you like me to set the reservations for?
+Yes, Sidebar is her favorite restaurant so let's book the table there at seven in the evening.
+Okay, before I make those arrangements for you please confirm that the details I have are correct. You want a table for 2 at Sidebar, located in Oakland, today at 7 pm. Is that correct?
+Yes, that's perfect. She will be so surprised.
+I have confirmed those reservations for you and you should be all set for this evening.
+Thank you for your help, I couldn't have done it with out you.
+Have a great day and enjoy your meal.
+I have a plan to eat outside for which I need some nice restaurant. Please help me to book a table.
+What is your desired location to eat?
+I like to eat at some nice place in Lafayette.
+Let me know your convenient time to eat, so that I can search according to you.
+11:45 in the morning is the convenient time for me and make the booking accordingly.
+Any preferred restaurant?
+Yes, try to book a table in The Cooperage, that was the nice place.
+Please confirm to book a table for 2 in The Cooperage American Grille in Lafayette at 11:45 am today.
+Yes, that is great. continue.
+Your reservation was successfully made at this place.
+Thanks and that's all.
+Have a great day.
+Man, I'm starving. I'd love to have a hearty meal out tonight. Can you reserve me a restaurant at 6 in the evening?
+Do you have a specific restaurant in mind? Where should I search?
+I'd like for you to check out what's available in Walnut Creek. I'd particularly like it if you could book me a table at Vanessa's Bistro 2.
+Okay then. You want to reserve a table for 2 at Vanessa's Bistro 2 Vietnamese Restaurant in Walnut Creek, at 6 pm today?
+Actually, make it at 18:15 on the 12th.
+Okay. The reservation should instead be at 6:15 pm on March 12th?
+That sounds right. Also, I'm a vegetarian. Does their menu have options that will be okay for me?
+You have successfully booked a table. Vanessa's Bistro 2 does have vegetarian meals.
+Can I have my meal outdoors at Vanessa's?
+Unfortunately, you cannot.
+Thanks for the answer.
+How else can I assist you?
+Not for anything else right now. Many thanks.
+Hope you enjoy your meal at Vanessa's.
+I'd like to make a restaurant reservation, can you help me?
+What restaurant do you need the reservation for? Also, what time is the reservation and where is the restaurant located?
+The restaurant is Blue Gingko Blackhawk. Look for it in Danville. The reservation is for next Monday at 5:30 in the evening for one person.
+Okay, please confirm this for me, I'll make a reservation for 1 person at Blue Gingko Blackhawk in Danville next Monday at 5:30 pm?
+No, sorry. It's for 3 people for next Thursday.
+Okay, so it's for 3 people next Thursday, is that right?
+Yes, that's right. Do you know if they have outdoor seating, and what's a phone number I can reach them at?
+They have outdoor seating available and you can reach them at 925-648-7838 by phone. I'm sorry I couldn't make the reservation. Do you want me to try to make a reservation at 5 pm next Thursday for 3 people at Blue Gingko Blackhawk?
+Yeah, try that.
+I've made the reservation for you.
+Thanks a lot, I don't need any more help.
+Have a good rest of your day then.
+I want to book a table in a restaurant for 3 people
+Which is the restaurant you like and the location?
+I am interested in San Francisco. Can you please try booking a table at Hakka.
+What is your timing?
+Please book at evening 4:45.
+Please give confirmation details: Booking a table for 3 people at Hakka restaurant at 4:45 pm today in the city of San Francisco.
+This is perfect. Does the restaurant have vegetarians options on the menu and can you provide me their address?
+Sorry, your booking can not be done and the hotel does not provide vegetarian option. Their address is 4401 Cabrillo Street. Should i book for 3 people today at 5 pm as Hakka restaurant is nice.
+yes that is perfect.
+Your booking has been done.
+Thanks a lot
+Do you need any help from me?
+No, thanks a lot.
+Have a great day.
+Let's do some restaurant exploring right now. I need a nice, ambient dining spot for a business meeting. Let's get a reservation booked and checked off my to-do list, please.
+Okay, I can help you with that. Do you want me to find a particular restaurant at a specific location? And, what is the time you want for the reservation?
+You're right on it, aren't you? That's great. Let's book a table at a restaurant in San Fran for 5:30 in the evening. Oh, wait. I remember the name of the restaurant I'm looking for. It's called The City.
+Got it. A table is being reserved for 2 persons at The City Taqueria in San Francisco for today at 5:30 pm. Shall I confirm that for you?
+Uh, hold that, please. I've got to change the reservation to one person. And, what's my chance of getting a table at The Grill instead?
+A table is being reserved for 1 person at The Grill. Do you approve of that?
+Yes, you have my approval to do it now. And, I need the phone number, too.
+Apologies. Your table could not be booked at this time. Would you like any other assistance?
+Well, I guess we'll have to table that and I'll let you know later. Thanks so much.
+Of course. Enjoy your day.
+Could you help me search for a one way flight?
+Where and when do you intend to depart?
+I will be departing from Vancouver on the 3rd of March.
+Where do you plan to travel to?
+I will be flying to Seattle.
+I managed to find 4 flights for you, one of which is an Air Canada flight with 1 layover and will depart at 4:20 am which will set you back $322.
+That sounds great.
+Could I further assist you?
+No need, thank you.
+Sure, have a great day ahead!
+I'm looking for one way flights out of Mexico City.
+Departure date and destination?
+Leaving the 7th of this month to San Diego.
+I found 3 flights. There's an American Airlines flight with 1 layover leaving at 11:40 am for $273.
+Thanks, that's all I need for now.
+Have a nice day.
+I want to find a flight, I have zero bags to check in.
+Where are you traveling and what city are you departing from?
+I'm leaving from Seattle on the 6th.
+What city are you traveling to?
+I'm traveling to the city of Atlanta.
+I found 5 flights. There is Alaska Airlines departs at 6:35 am and has 0 layover. The ticket is $181.
+Find me another flight in Economy class please.
+There is a flight with American Airlines departs a 10:35 am and has 0 layover. The ticket is $184.
+When does the flight arrive to the destination?
+The flight arrives at 7:07 pm local time the same day.
+Find me something to New York.
+There is 3 flights. Do you like Delta Airlines departs 8:05 am and has 1 layover. The ticket is $298.
+That is all I need.
+Have a good day.
+I am searching for a one way flight.
+Which city do you want to depart from and where are you heading? On which date would you like to travel?
+I am leaving from Phoenix and going to Las Vegas on the 12th. I have 0 checked bags.
+I have 4 flights. What do you think about American Airlines? This flight leaves at 10:10 am and has 0 layovers. This ticket is $80 per passenger.
+Search for something else.
+How about Delta Airlines? This flight leaves at 2:25 pm and has 0 layovers. It costs $85 per person.
+When will the flight arrive in Las Vegas?
+The flight will arrive at 3:39 pm local time.
+What airport does the flight leave from and land?
+The flight leaves Sky Harbor International Airport and will arrive at McCarran International Airport.
+Search for something else. I want to go on United Airlines.
+I have 1 flight that you may like. What about United Airlines? This flight leaves at 9:35 pm local time with 0 layovers. The ticket is $84 per person.
+Okay.
+Do you need something else?
+No, that is it but I appreciate the help.
+Have a great day.
+Can you help me find a one way flight, preferably on Delta Airlines.
+Where are you heading to?
+I'm going to Atlanta, and I have 0 bags I need to check.
+And on what date will you be traveling?
+I want to leave on next Tuesday.
+And where will you be leaving from?
+I'll be leaving from Washington.
+There's 1 flight I found. It leaves at 6:25 pm, has 0 layovers and is on Delta Airlines. It will be $109 per passenger.
+Okay.
+Do you need help with anything else?
+No, thanks for the help.
+Have a good rest of your day.
+I'm looking for a one way flight with Alaska Airlines.
+When will you be travelling and what city will you be departing from?
+I want to fly from San Francisco on the 11th of March.
+What is your destination?
+I want to go to New York.
+So for confirmation: You would like to fly with Alaska Airlines, the flight leaves at 10:20 pm and there are 0 layovers. The total cost for this flight is $216.
+That's great thanks for your help.
+Enjoy your day.
+Hi I'm travelling and I need a one way flight for 1.
+What city are you departing from and on what day? Where are you going?
+I'd like to go to Seattle on the 11th from London.
+I found 3 flights that might work for you. How does American Airlines sound? The flight will leave at 6:55 am and has 1 layover. The cost is $402 per person.
+Is there anything else? I'd like to fly out on the 3rd of March in Economy class.
+I found 2 flights that might work. How does Delta Airlines sound? The flight leaves at 11:50 am and the cost is $413 per person. There is 1 layover.
+That works.
+Do you need anything else?
+That's all, thank you.
+Enjoy your day!
+There is a meeting for me where I want reach by flight. Can you search an Economy class for one way?
+Which place you wish to go to? The date and departing port also please.
+To Washington on the 8th from Atlanta.
+4 flights are for you. You may choose American Airlines at 9:40 am with 0 stops and ticket fare is $119.
+Ok, Search for any other flights.
+Do you like Delta Airlines takes off at 5:55 pm with 0 layovers and cost is $106?
+No, look for some other?
+Southwest Airlines, takes off at 4:35 am with 0 stops and fare is $101. Do you prefer it?
+What is the reaching time? How many checked bags can I take?
+You can take 0 checked bags. It will take you to the destination 6:26 am local time.
+Great , thank you.
+Do you need any other help?
+No, that's all.
+Have a wonderful day.
+I need a one way flight from Phoenix to Portland.
+What day are you leaving?
+I need to leave next Monday.
+I found a flight with American Airlines that leaves at 9:30 am with 1 layover. The ticket price is $260.
+How many passengers is the reservation for? Is the ticket in Premium Economy.
+The ticket is an Economy seat for 1 passenger.
+Ok, that is fine.
+Is there anything else?
+No, that is all.
+Have a great day.
+Book me a flight. Make it one-way on Delta Airlines
+Departing from where? When would you like to go?
+Leaving from Chicago on the 7th of March
+And flying where?
+I need to go to Washington
+I found 1 flight on Delta Airlines. It has 0 stops and departs at 2:30 pm for $109 per passenger
+Thanks. That's helpful
+Take care
+Can you help me find a one way flight?
+Where are you leaving from, and when? What is your destination?
+I'd like to fly from London to Chicago on March 3rd.
+I've found 4 possible flights. How about American Airlines? The flight is at 2:25 am and has 0 connections. The ticket costs $235.
+Do you have other options?
+How about British Airways? The flight is at 11 pm and has 0 connections. The ticket costs $243.
+Thanks, that's all I needed.
+Have a nice day.
+I need to attend a business meeting and i wish to travel . Will you find a one way flight?
+In which city you wish to depart from and on which date you wish to travel ? To which place are you planning to go?
+i wish to travel from city washington to London , on date the 1st.
+there are 4 flights according to your interest. Whether you like to fly with American airlines? Flight takes off at 1 pm local time and itinerary has 1 layovers and its costs $303 per passsenger.
+All right . Thanks a lot for your immense help.
+take care have a great day.
+I'd like to find a one way flight.
+Where would you like to leave from and where do you want to go? What date would you like to travel?
+I want to fly to Mexico City from Seattle on the 11th of March.
+Would you like to fly with Alaska Airlines at for $306? The flight takes off at 6:25 pm and has 1 layover.
+I'd rather fly with United Airlines.
+I found a flight with United Airlines for $284. The flight takes off at 3:05 pm and has 1 layover.
+Can you find me a flight with American Airlines instead?
+I found a flight with American Airlines for $287. The flight takes off at 1:40 pm and has 1 layover.
+Are two checked bags allowed?
+0 checked bags are allowed.
+How many passengers did you get this for?
+This is for 1 passanger.
+All right. Thanks, that's all I need.
+Have a great day!
+I will be having a flight trip, and I am in need of a ticket for a one way flight to San Diego.
+Can you tell me the date when you will take the flight, and from where will you depart for the flight?
+I will be departing on Thursday next week and the location from where I will start my trip is Mexico City.
+I see that 3 flights match your request. How would you consider having a flight which leaves at 11:40 am with 1 layover and is with American Airlines? The ticket for this flight will be costing $273 per passenger.
+That suits me well.
+Is there something else I could help you with?
+Nothing. I appreciate your help.
+Have a wonderful day!
+I'm going to travel pretty soon. I'd like to find a one-way flight.
+On what date will you travel?
+I will be departing on March 13th.
+Where you be flying from and to?
+My flight should go from Atlanta to Chicago.
+How about an American Airlines flight? It takes off at 6:05 am, has 0 layovers, and a ticket costs $116 per passenger.
+I'd rather find another flight. Make sure it has economy class tickets.
+Does Delta Airlines sound good to you? It takes off at 11:20 am, has 0 layovers, and a ticket for it costs $106 per passenger.
+It doesn't sound that great. I want to have another option.
+United Airlines might appeal to you. Its flight takes off at 7:50 pm, it has 0 layovers, and a ticket will cost you $120.
+7:50 pm is kind of late. Will the flight arrive the next day? How many passengers is this for?
+Actually, the flight will still arrive on the same day. This will be for 1 passenger.
+Okay. Got it.
+Is there any other matter where I can help you?
+Not at the moment. Thanks.
+Hope you enjoy your time at Chicago!
+Hi, could you help me search for a one-way Alaska Airlines flight?
+Where would you like to depart from?
+I would like to depart from San Diego.
+Where is your preferred date and location of travel?
+I would like to travel to Phoenix on March 7th with 0 check in bags.
+There is an Alaska Airlines flight costing $97 per passenger, which takes off at 10:55 pm with 0 layovers.
+I see, that's all I need, thanks!
+No worries, have a great day ahead.
+I'm planning a trip, can you help find me a flight?
+Sure, when are you going? And where are you flying from and to?
+I'm going next Monday and I want to go to Paris! Can you look at flights from Chicago?
+Of course. There's an American Airlines flight for $402, it only has 1 stop and leaves at 2:40 pm
+Does it leave from Chicago? And when does it arrive?
+It leaves from O'Hare International Airport and arrives in Paris the next day
+Cool, thank you. That was all, I don't need anything else.
+No problem, have a lovely day!
+I need a one way flight on any airline. I have 0 bags for check in.
+What date do you want to travel and where will you be going? What city do you want to leave from?
+I am going to Vancouver from Phoenix, on the 3rd.
+I have 3 flights that should work. How about American Airlines? The flight leaves at 9:30 am local time and has 1 layover. The ticket costs $246 per person.
+Look for something else.
+How about a 9:55 am flight with Southwest Airlines? This flight has 1 layover and costs $251 per person.
+Look for something else.
+WOuld you like a flight on United Airlines that leaves at 9:40 am local time? It has 1 layover and costs $235.
+Where will the flight land and where does the flight leave from?
+The flight leaves from Sky Harbor International Airport and goes to YVR International Airport.
+Great.
+Do you need any other assistance?
+No, that is all but thank you.
+Have a great day.
+Hi, could you help me search for one-way flights with Alaska Airlines?
+What is your intended date and location of departure?
+I will be departing from San Francisco on 13th of this month.
+Any preference on your destination?
+Phoenix would be great.
+Would you like to fly with Alaska Airlines which will depart at 4:10 pm with 0 layovers and will cost you $131 per passenger.
+May I know where does the flight land?
+The flight will land a Sky Harbor International Airport
+What is the flight arrival time at the destination and how many check bags am I allowed to bring up?
+You are allowed to bring up 0 checked bags, and you will arrive at 6:17 pm local time.
+I see, thank you.
+Do you require further assistance?
+Nope, thanks for your help though.
+No worries, have a great day!
+I have a plan for a short trip and I want to search for Economy class tickets in an one way flight. Please search for some flights.
+From where and to which place your are planning for a visit?
+I want the flights from Washington to San Francisco.
+Let me know the date of your trip.
+on next Tuesday, please search accordingly.
+Found 4 results. A flight with American Airlines which takes off at 4:10 am local time is okay for you? the itinerary has 1 layovers and the ticket cost is $300 per person. What about your opinion?
+Will the flight allow zero checked bags?
+Yes, they allow 0 checked bags.
+That is fine, that's all for now. Thanks.
+Have a great day.
+I need help booking a one way flight to Seattle.
+What date are you traveling?
+I'm departing on the 11th.
+What city are you departing from?
+I need a flight from Vancouver.
+There are 4 flights that would work. Air Canada has a flight that departs at 4:20 am and has 1 layover. The price is $277 per person.
+Will it arrive the day after or the same day?
+The flight arrives on the same day.
+Let's find something else.
+American Airlines has a flight leaving at 1:30 am local time with 1 layover. The cost is $287 per person.
+Can I check two bags?
+No, 0 checked bags are allowed.
+Okay.
+Is there anything else I can help you with?
+No that's all, thank you.
+Have a great day!
+I'm looking for one way flights with 0 bags checked in.
+Departure city?
+New York.
+Destination and dates of travel?
+Going to Seattle next Thursday.
+There's an American Airlines flight with 1 layover leaving 6:50 pm for $296.
+That sounds good. That's all I need for now.
+Have a nice day.
+I'd like to find Economy class tickets for a one way flight.
+Okay, what date are you departing?
+I'd like to fly out on the 13th of this month.
+What city are you departing from?
+Find me flights leaving out of Atlanta.
+Okay, what is your destination?
+I'll be flying to Washington.
+Would you like to fly with American Airlines? The flight leaves at 9:40 am local time and has 0 layovers. The ticket will cost $110 per passenger.
+Yes that's fine, thanks. That will be all
+Thank you, have a good day.
+I would like to book a flight one way, just 1 seat.
+What date are you traveling and where are you going?
+I'm flying to Seattle on March 7th.
+Which city are you departing from?
+I'm looking for flight from Toronto.
+There is a flight with Air Canada that departs at 5:35 pm and has 1 layover. The cost is $283.
+That is all the information I needed.
+Have a good day.
+I need four seats for a one way flight on March 3rd.
+Which city are you leaving and where are you going?
+I am leaving San Francisco and going to New York.
+There is an Alaska Airlines flight with 0 stops that leaves at 10:20 pm and costs $189 per person.
+I am actually flying to Chicago.
+There is an American Airlines flight with 1 stop that leaves at 9:30 am and costs $317 per person.
+I need an economy class ticket and have zero bags.
+I found 3 flights including a Delta Airlines flight with 0 stops leaving at 10:30 am and the cost is $182 per person.
+Which airport does the flight leave? Does it arrive the next day?
+The flight leaves SFO International Airport and arrives the same day.
+That's fine.
+May I further assist you?
+No, that will be all.
+See you soon!
+I need a one way flight.
+What date would you like to leave? Where will you be traveling too?
+I need to got to Paris on March 4th with 0 bags.
+What airport would you like to depart from?
+Las Vegas please.
+I ahve 3 options for you. There is an American Airlines flight departing at 1:55 pm with 1 layover for $407 per person.
+I want sonthing elese.
+How about a Delta Airlines flight departing at 2:25 pm with 1 layover for $404 per person.
+What does United Airlines have with Economy seating?
+United Airlines has a flight departing at 11 am with 1 layover for $346 per person.
+Thanks.
+Is there anything else I can help you with?
+No that will be all.
+Have a marvelous day!
+I have a travel plan on Friday next week for which I need to search for an one way flight, can you find one?
+What is your origin and destination cities?
+I like to travel to Paris from San Francisco.
+Found 4 results. How about a flight with Alaska Airlines which has 0 layovers and it takes off at 4:45 pm? The ticket price is $240 per person.
+That was an useful information and thank you.
+Have a nice day.
+I am searching for a one way flight.
+On which date would you like to travel? Which city do you want to leave from and where are you going?
+I would like to go on United Airlines from Las Vegas to San Francisco. I want to fly out on March 2nd.
+I have 1 flight for you. How about this United Airlines flight? This flight leaves at 4:20 pm local time and has 0 layovers. The ticket costs $86 per person.
+When will the flight get to my destination? Will it arrive the day after?
+The flight arrives at 5:55 pm local time on the same day.
+Okay.
+Could I assist with anything else?
+No, that is it. Thank you for helping.
+Have a great day.
+Hi i need a help, i am planning for a trip, I want to find a one way flight
+Sure, I will help you, Where are you going to and where do you want depart from?
+I am going to Las Vegas and looking for flights from Toronto
+Could you tell me which date would you like to travel?
+I am going on the 6th
+Ok, I found a result for you, Are you ok to fly with Delta Airlines? the flight takes off local time at 6:45 pm and the itinerary has 1 layovers, ticket cost is $254 per person
+No, i am not interested, Find another flights, i am interested fly with United Airlines, i am going from Seattle
+Ok, I found United Airlines for you, the flight takes off at 4:10 pm local time and the itinerary has 1 layovers, Ticket price is $315 per person. Shall i help you with anything more?
+No, thank you very much for your help, That's all i need.
+you are welcome, hope i was able to help you, Have a wonderful day.
+Hi, could you help me find a one way flight?
+Where and what date would you like to depart from?
+I would like to depart at Atlanta on the 1st of March.
+Any preference on your destination?
+I will be travelling to San Diego.
+Would you like to fly with Southwest Airlines? This flight has 1 layovers and will take off at 6:35 pm local time, which will set you back at $242 per passenger.
+Sure, that's all I need.
+No problem, see you soon!
+Can you find a one way flight for me?
+Travel date?
+Leaving the 11th of March.
+Departure city?
+Philadelphia.
+Destination city?
+Nairobi.
+I found 2 flights. There's an American Airlines flight with 1 layover leaving at 8:45 am, for $370.
+Sounds good.
+Can I do anything else?
+No, that's it for now.
+Have a nice day.
+I'm looking for a one way flight.
+Where do you want to go?
+I want to go to Las Vegas.
+When would you like to go?
+I'm planning on heading out the 7th of this month.
+Where will you be leaving from?
+I'll be leaving from New York. Look for those flights.
+I've found 3 that will work. Do you mind American Airlines? There's a flight that leaves at 6:50 pm and has 1 stop. It costs $251 per seat.
+Which airport does that depart from?
+It leaves JFK International Airport.
+Cool. That will be it. Thanks.
+Have a wonderful day.
+Can you find me 2 seats on a one-way flight to San Diego?
+Of course - what date are you traveling, and where are you leaving from?
+I'd be leaving from Seattle on the 12th.
+I've got 4 options here so far: Alaska Airlines has a flight leaving at 11:10 am with 1 layover for $207 per ticket.
+Okay, yeah.
+Is there anything else I can help you with?
+No, that'll be all I need right now.
+Alright, have a great day.
+There is a business tour for me, can you fine a one way flight.
+Your destination and date please.
+I wish to fly to Portland on 9th of March.
+Where will you depart from?
+I will embark from New York.
+Are you interested in flying with American Airlines with 1 layovers taking off at 9:15 am? Per head cost is $308.
+Are there any other flights?
+You can take Delta Airlines with 1 layover and taking off at 6:40 pm . The ticket fare is $316 per person.
+Great, I think I can choose that.
+Ok, have a good journey.
+I need a one way flight.
+What day are you leaving? Where are you going?
+I am leaving on the 1st of March going to San Francisco.
+Where are you leaving from?
+I am leaving from Philadelphia.
+I found 3 flights with American Airlines. The flight leaves at 2:35 pm, has 1 layover, and the ticket price is $308.
+That is all, thanks!
+Have a nice day.
+I need to travel by plane for my next trip, look for tickets from Delta Airlines.
+When is your trip? Where are you going to? Where are you leaving from?
+I'm going to Sydney leaving from San Diego on March 14th.
+There's 1 flight good for you if you're sure about Delta Airlines. It takes off at 10 pm and there's also 1 layovers. One single tickets cost $307
+What about the landing airport?
+It's the Kingsford Smith International Airport.
+It works for me.
+Can I do more for you to help you in organizing your trip?
+No thank you.
+Goodbye sir.
+I have a plan to travel on March 14th with 0 bags for which I need to search for an one way flight, do you help me?
+Yes, what is your starting and ending place of this trip?
+I am travelling from Paris to Seattle. Please search for flight based on this detail.
+A flight with American Airlines takes off at 5:05 am whose itinerary has 1 layovers and the ticket cost is $444 per person. Please confirm to proceed further.
+Okay, tell me that this result is for how many persons?
+I searched it for 1 person only.
+That's okay. Fine.
+Anything else you want me to do?
+That's all I want for now and thanks.
+Have a great day.
+I've got a business trip coming up. I'm not sure how long I'll be there for, so can you look for a one-way flight for me?
+Sure. What city are you leaving from?
+I'm departing from Phoenix,
+And what day are you leaving?
+My trip is on the 10th.
+What city are you going to?
+I'm headed to New York.
+There is an American Airlines flight which leaves at 5 am but has 1 layover. It costs $301. Do you want a ticket for this flight?
+Yeah, that sounds good.
+Do you need help with anything else?
+No, that's all. Thanks.
+Enjoy your day.
+I need a ticket, whatever's best will do.
+Where do you want to go?
+Seattle is my goal.
+What date do you want to get there?
+How about a departure of the 6th?
+From where will you fly?
+I'm taking off from Mexico City.
+I have 3 options. How about American Airlines? You can board at 11:40 am. You'll have 1 stop though and it costs $431 each.
+You got it toots.
+What else is needed?
+That's the whole thing thanks.
+Cool, I appreciate you.
+pull up one way flights. Also note I will have zero bags.
+Sure, Where are you planning a trip to? I will also need to know when you would like to leave and from which airport city.
+check flights leaving Phoenix to Mexico City on March 11th please.
+Sure thing. Delta Airlines has some flights available. One flight is departing at 6:25 pm local time and has 1 layover. This ticket would be $258. How does this sound?
+Sounds good. that was all I needed.
+Ok, great! Have a wonderful day
+I want to find a one way flight.
+When do you plan to leave? Where you want to depart from? What date would you like to travel?
+Lool for flights from Phoenix to Vancouver on March 12th.
+I found 4 flights. American Airlines takes off at 11 am has 1 layovers. The ticket cost $237.
+Ok. Thank you
+Can i help you with anything else?
+No. Thanks a lot
+Have a good day.
+I'll leave soon and I need to book a one way flight for 1 passenger.
+When would you like to leave?
+The date is March 11th.
+Where will you leave from?
+Nairobi is the departure city.
+Where are you going to?
+I need to be in Atlanta.
+You have 1 option. Is Delta Airlines a company that you would like to travel with? Take off is scheduled at 9:50 am local time. There's 1 layovers. Ticket is $431 pro capite.
+Are you looking for Business tickets? Is the arrival scheduled to be for the day after?
+No, I'm looking for Economy seat. The plane will reach its destination the next day.
+Fine, you can go now.
+Thank you and good bye.
+Hello! I need assistance finding a one way flight.
+I'd be happy to help. Let's get some details down. Where are you going and where will you be leaving from? What day will you be going?
+I'd like to find a Premium Economy ticket from Washington to New York on the 8th of this month.
+There are 4 flights that meet your needs. If you like American Airlines, there is a flight that leaves at 4:10 am local time. It has 0 stops and tickets are $115 each.
+That will work for me.
+Is there anything else I can do for you? Would you like to book the ticket?
+No, that will be all for right now. Thank you for your assistance.
+You are very welcome. Enjoy your day!
+I'd like to search for a one-way flight.
+What location do you intend to travel to?
+I'm going to London.
+What day do you wish to travel?
+I'd like to travel on Friday next week.
+What metropolis would you like to leave from?
+Search for flights from Washington.
+I discovered 4 flights for you. There is a ticket costing $300 for an American Airlines that departs at 4:10 am with 1 layover.
+Okay, thank you; that's all.
+Have a pleasant afternoon.
+I need a one way flight to Seattle.
+Departing from what city?
+I am departing from Sydney on the 11th of March. I have zero bags to check in.
+I found a flight on Delta Airlines that departs at 3:55 pm local time. There is 1 layover and the ticket costs $323 per passenger. Are you interested?
+All right.
+Do you need help with anything else?
+No. Thanks for your help.
+Have a nice day.
+Can you help me find a one way flight? I have zero bags to check, so I'll just be carrying on one.
+Where are you leaving from and going to, and on what date?
+I am leaving from Los Angeles on March 4th and I want to go to Atlanta.
+I found 5 flights with Alaska Airlines. The first one takes off at 6:55 pm local time, has 0 layovers and costs $169 per ticket.
+That sounds good.
+Can I help you with anything else?
+No thank you, that is all.
+Ok, have a good day.
+Hello! Can you help me find an Economy class ticket on a one way flight?
+I'd be happy to help. Let's get some details to help narrow down the search. Where are you planning to travel to and where will you be leaving from? What day will you be travelling?
+I'll be leaving Los Angeles this Saturday bound for New York.
+There are 5 flights that might work for you. There is an Alaska Airlines flight that leaves Los Angeles at 4:55 am local time. It has 1 layover and tickets cost $297.
+Can you tell me where and when that flight lands?
+It is scheduled to arrive at 3:56 pm local time at JFK International Airport.
+That will work for me.
+Is there anything else I can assist you with today?
+No, that will be everything. Thank you for your help.
+You're welcome. Have a wonderful day!
+Hello, could you help to search for some Premium Economy one way flights?
+Where would you like to depart from?
+I would prefer to depart from Vancouver.
+What is your preferred destination>
+I will be flying to Seattle with zero check in bags.
+When would you like to travel?
+I will be flying on the 14th of March.
+Would you like to travel with Air Canada with 1 layover? The flight will depart at 12:15 pm local time and cost you $455 per passenger.
+I see, that's all I need. Thank you.
+No problem, have a great day!
+I need a one way flight and I have 0 bags that need to be checked in.
+On which date would you like to travel and to where?
+I want to fly to Seattle on the 6th of March.
+What city do you want to leave from?
+Look for flights departing Atlanta.
+I have 4 flights for you. How about American Airlines? There is one flight that takes off at 4:20 pm local time with 0 layovers. This ticket costs $187 per passenger.
+I need something else. Could you find economy tickets?
+I have 3 flights for you. Do you want to fly Delta Airlines? The flight takes off at 2:30 pm local time with 0 layovers and costs $194 per person.
+I want four seats but find me other options.
+There is a Southwest Airlines flight that leaves at 7:15 pm local time. It has 1 layover and costs $334.
+Would it arrive the day after? At which airport does it land?
+It will land at Seattle-Tacoma International Airport the following day.
+Okay, I need round trip flights that return on 8th of this month.
+I have 1 flight that I think you would like. How about Southwest Airlines? This flight leaves at 7:15 pm mand returns at 6:55 pm local time. It costs $485 per person.
+Oky. Thank you for your assistance.
+Have an awesome day.
+Can you find me a one way flight? I have 0 bags so no need to check any in
+Where do you want to depart from?
+Let's look for flights from Philadelphia
+Where are you going to and what date are you travelling?
+I'm flying to Atlanta and want to leave on the 3rd
+How's this American Airlines flight that leaves at 8:45 pm and has 1 layover. It costs $196 total
+Can you book four seats but with Southwest Airlines.
+There's a Southwest Airlines flight that takes off at 3:30 pm and has 1 layover and costs $208 a head
+Does it arrive the next day? And which airport does that flight leave from?
+The flight leaves from PHL International Airport and it arrives on the same day
+Alright, help me find round trip flights
+What day do you want your return to be?
+Let's make the return on March 5th
+I found 1 flight via Southwest Airlines that leaves at 3:30 pm and the return flight takes off at 6:40 am and will cost you $385
+Where does that land?
+It will arrive at Hartsfield-Jackson International Airport
+Alright that sounds good
+Can I do anything else for you?
+Nope, that's all thanks
+Great, have a good one
+I will be having a flight so I need a ticket for a one way flight, though keep in mind that I have zero bags to check in. I will start my journey on the 11th.
+Can you tell me your destination, and the city from where you will depart?
+I will be flying from London, and my destination will be Seattle.
+I see that 3 flights match what you want. One of the flights has 1 layover and it departs at 6:55 am, and it is with American Airlines. The ticket would be costing you $402 per passenger.
+That seems good. I actually need to find a round trip flight.
+Can you tell me the day when you will be returning?
+My returning date will be 13th of this month.
+How would you consider flying with the flight of American Airlines that leaves at 6:55 am local time and returns at 1:40 pm local time.? The cost of the ticket will be $775 per passenger.
+Can you tell me for how many passengers is this for? Which is the time, when my flight would arrive at the destination?
+What I specified is for 1 passenger and the flight will be at destination at 8:42 pm local time.
+That sounds good.
+Is there something else I can help you with?
+Nothing for the moment. I am thankful for your help.
+Have a good time!
+I'm going on a trip. Can you get me a one-way flight?
+Sure. Where are you going to, and where are you leaving from? Also, what day is your trip?
+I need a flight from San Diego to Portland on the 6th.
+There is an Alaska Airlines flight which leaves at 1:15 pm and has 0 layovers. It costs $135.
+Are there any other flights available?
+There is an American Airlines flight which leaves at 4:50 pm and has 0 layovers. It costs $122.
+What time does this flight get to Portland? Is it the next day?
+You would arrive at 7:34 pm local Portland time the same day.
+Sounds good. Actually, maybe I should just be a round trip flight. Can you find me one which beings me back on the 9th of March?
+Sure. That 1 American Airlines flight which leaves at 4:50 pm has a return flight which departs at 4:45 pm local Portland time. The total cost would be $338.
+What station does this flight arrive at? And do they allow at least one checked bag?
+It is PDX International Airport and 0 checked bags are allowed.
+I see.
+Do you need assistance with anything else?
+No. Thank you very much.
+Enjoy the rest of your day.
+I'm looking for a one way flight
+Where are you planning to go and from which city do you want to depart from?
+I'm flying to New York from London
+Which date do you prefer?
+I wanted to fly tomorrow
+There are 4 flights. How about flying with American Airlines which takes off at 2 am local time where itinerary has 0 layovers which costs $247 per head
+Try some thing else
+How about British Airways, which takes off at 11:05 am where itinerary has 1 layovers which costs $388 per head
+Find some more
+How about Delta Airlines which takes off at 11:50 am where itinerary has 1 layovers and costs $443 per person
+Cool. I wanted to go find round trip flights with zero bags check in, planning to return on March 4th
+There are 1 flights. How about flying with Delta Airlines which takes off at 11:50 am local time and return takes off at 5:30 pm local time which costs $628 per person?
+All right fine.
+Can I assist you with anything else?
+Nope. Thanks a lot for the help
+Have a wonderful day
+Will you find me a one way flight on United Airlines?
+Where are you going?
+Seattle.
+What date?
+Thursday next week.
+Which city are you leaving from?
+Will you find me flights from Atlanta for 1 person?
+I found a flight on United Airlines that takes off at 11:50 am with 0 layers for $190 per passenger.
+Great.
+Anything else?
+Will you find some round trip flights? I need to check in 0 bags.
+Which day is the return flight?
+March 9th.
+How about United Airlines at $462 per passenger that takes off at 11:50 am with returning flight that takes off at 10:35 am.
+What's the destination airport? It arrives the day after right?
+The flight arrives the same day at Seattle-Tacoma International Airport.
+Sounds great.
+Anything else?
+No, thanks.
+Have a wonderful day.
+I'm looking for a one way flight.
+Which city are you departing, what date would you like to leave and where are you planning to go?
+Find flights in Los Angeles leaving on the 9th of March to Las Vegas.
+Would you like to fly with American Airlines? The flight leaves at 5:05 am local time and has 0 layovers. The tickets are $80 per passenger.
+How many passengers are included for that prices? Will the flight arrive by the next day?
+The cost will be for 1 passenger and the flight will arrive at it's destination on the same day.
+Ok, search for round trip flights.
+What day will you be returning?
+I want to be back on March 11th.
+Would you like to fly with American Airlines? The flight leaves at 5:05 am local time. The return flight leaves at 4:50 am local time and the tick costs $154 per passenger.
+All right that sounds good.
+Is there anything else i can help you with today?
+Nope, that's it. Thanks for the help.
+Thank you and have a good day.
+I need a one-way flight, preferably with American Airlines.
+Where are you flying from, and what is the destination? What day will you be traveling?
+I need a flight from London to Chicago for the 4th of March.
+I've found 1 flight with American Airlines. The flight takes off at 2:25 am local time and has 0 layovers. It is $261 per passenger.
+Okay. I round trip Economy flight. I have zero bags to check.
+What day do you want to return?
+I plan on returning on the 6th.
+I found 1 American Airlines flight leaving at 2:25 am local time. The return flight leaves at 2:40 pm local time. It's $617 per ticket.
+How many tickets did you get? Which airport does it leave from?
+I got 1 ticket. The flight leaves from Heathrow International Airport.
+Okay. Thanks, that's all I need.
+Have a nice day.
+I will be having a flight so I need a one way flight,
+Can you tell me the date when you will be having the trip? From which city are you going to be leaving, and which is your destination?
+I will be flying from Nairobi, with my destination being Chicago, and I will be having the trip on Tuesday next week.
+I see that there are 2 flights which meet what you want. Do you like having American Airlines as your flight company? This flight will be leaving at 7:40 am local time, and it has 1 layover. This ticket will cost you an amount of $431 per passenger.
+Can you tell me if the flight arrives the day after?
+I can confirm that the flight arrives at the destination on the next day.
+That's good. I am also in need of a round trip flight.
+Can you tell me when you would want to return?
+I think I will be returning on Thursday next week.
+I see that there is 1 flight suiting what you might like, and it is with the American Airlines. Also the flight will leave at 7:40 am local time, and it will be returning at 9:40 am local time. The cost of this ticket will be $786 per passenger.
+That seems nice.
+Is there anything else I can help you with?
+Nothing for now. I appreciate your help.
+Have a good time!
+Can you search for one-way flights for me?
+Of course, what day would you like to travel on?
+I'd like to fly on the 10th of March.
+What city are you leaving from, and where are you traveling to?
+I'm leaving from London and going to Seattle, I have 0 bags to check in, I'm just bringing a carry-on, I hate traveling while loaded down.
+Okay! I've got 3 matching flights here - American Airlines has a flight with 1 layover, taking off at 2:25 am for $410 per passenger.
+What class would it be and when does it arrive?
+The flight arrives on the same day - it's an Economy seat.
+No, I think 2:25 am is too early to be flying Economy, tell me what else is available.
+How about Delta Airlines? There's an 11:50 am take off with 1 layover for $411.
+No. Okay, can you look up flights from Los Angeles?
+I've got 3 more options here: Alaska Airlines has a flight taking off at 8:15 am with 0 layovers for $153 per passenger.
+Can you find some round trip flights instead, I need 2 seats.
+What day would you like to return?
+I'd be coming back on the 12th of this month.
+I've got 1 flight here: Alaska Airlines has a flight leaving 1:45 pm and returning 11:10 am for $249 per ticket.
+Yeah, that works.
+Is there anything else I can help you with?
+No, that's all.
+Have a great day.
+Can you search for one way flight?
+What will be your destination?
+My destination is San Francisco.
+What will be the city and date of departure?
+My city and date of departure is New York and on the 1st.
+How about American Airlines which takes off at 9:15 am with 0 layovers and the ticket is priced at $217?
+Can you find any other flight for 1 seat and zero bags to check in.
+How about Delta Airlines which takes off at 6:40 pm with 0 layovers and the ticket is priced at $174?
+Which airport does the flight depart from and what is class of ticket?
+The ticket is Economy class and it is taking off from JFK International Airport.
+Can you search for any other premium Economy ticket in United Airlines?
+How about United Airlines which takes off at 11:15 am with 0 layovers and the ticket is priced at $293.
+Okay, Find me round trip flights.
+When do you want to get back?
+I will be returning on the 3rd.
+There is 1 United Airlines flight which leaves at 11:15 am and the returning flight is at 8:05 pm and the ticket is priced at $595.
+That will be all. Thank you.
+I am glad I could help. Have a nice day.
+Will you find a one way flight with 0 bags to check in?
+Where are you departing from? Where are you going? What date are you traveling?
+I want to fly from Vancouver to New York on 9th of March.
+I found 4 flights. One of them is Air Canada at $338 per passenger with 1 layover that takes off at 1:40 am.
+Which airport does it depart from? Where does it land?
+It flies from YVR International Airport to JFK International Airport.
+Will you find me something else?
+I found American Airlines at $295 per passenger with take off at 5:15 am and 1 layovers.
+Anything else?
+How about Delta Airlines at $335 per passenger that takes off at 6:40 am and has 1 layover?
+Sounds great. Will you find round trip flights?
+Which day are you returning?
+11th of March.
+I found Delta Airlines at $624 per passenger that takes off at 10:15 am. Return flight takes off at 6:40 pm.
+Thanks, that's all.
+Have a wonderful day.
+I'm looking for a one way flight.
+Okay, where are you traveling from and traveling to? What date do you need to travel?
+I'm traveling from San Francisco to Phoenix and I need to depart on the 11th of March.
+I've found 5 flights that would work for you. There's an Alaska Airlines flight that has 0 layovers and departs 11 am. The ticket is $132 per person.
+What else is available?
+I found a flight on American Airlines that departs at 8:20 pm and has 0 layovers. It costs $121 per person.
+Is there anything else?
+I have a flight on Delta Airlines that departs at 11:45 am and has 1 layover. It's $195 per person.
+Okay. Let's search for round trip flights.
+What day do you want to return?
+I want to fly back on March 13th.
+I found 1 flight that will work on Delta Airlines. The outbound flight departs at 11:45 am local time and the return flight takes off at 7:55 pm local time. The price is $300 per person.
+When and where does the return flight arrive?
+The flight is into Sky Harbor International Airport and arrives at 10:02 pm.
+Okay, that's all I need for now, thanks.
+Have a great day!
+I'm going on a trip. Can you search for a one-way flight?
+Sure. Where are you going? And what city are you leaving from?
+I want a flight from Delhi to Los Angeles.
+What day is your trip?
+I am leaving on the 8th of March.
+There is an American Airlines flight available which leaves at 7 am and has 0 layovers. It costs $228.
+Hmm, are there any other flights? There are 0 bags for me to check in.
+There is a United Airlines flight available which leaves at 9:15 pm and has 1 layover. It costs $482.
+What station does this flight take me to? And what time does it get there?
+You would arrive at LAX International Airport at 1:50 am local LA time.
+Sounds good, but I changed my mind. I want a round-trip flight for 2 people.
+Sure. What day will you be returning?
+Most likely on the 12th.
+The United Airlines flight which leaves at 9:15 pm that we were discussing earlier has a return flight which departs at 5 am local LA time. It costs $835 per person.
+Okay.
+Do you need assistance with anything else?
+No, that's all. Thanks.
+Enjoy the rest of your day.
+I want to search for an one way flight on 2nd of March, can you help me to find one?
+What is the origin and destination cities of your trip?
+I am planning to visit Chicago from Washington. Search flights as per this detail.
+Found 4 results based on your requirement. What about an American Airlines flight which takes off at 6:40 pm local time with itinerary of 0 layovers and the ticket price at $120 per person?
+No, please search for some other flights.
+How about a flight with Delta Airlines? It will take off at 4:20 am and the cost will be $112 per person. Also it has itinerary of 0 layovers.?
+Thanks for that information.
+let me know to help further in this?
+Yes, I need another help. Please search for round trip flights.
+When do you want the return flight to be take off?
+Return will be on 4th of this month.
+Again please confirm whether Delta Airlines is okay for you. And the flight will take off at 4:20 am and the return flight takes off at 9:35 am under ticket cost $299 per person.
+Thanks for all your information.
+Have a nice day.
+I want to find a one way flight.
+What city are you departing from?
+I am leaving from Atlanta.
+Where are you going and what date are you looking to leave?
+I am going to New York on the 11th of March and I would like seats in premium economy.
+I found a flight on American Airlines that has 0 layovers and departs at 6:15 am. The cost is $222 per ticket.
+Does it arrive the day after and how many passengers did you get this for?
+This is for 1 passenger and the flight arrives at the destination on the same day.
+Please find me another flight with Delta Airlines.
+I found a flight on Delta Airlines that departs at 7:55 pm and has 0 layovers for a price of $197 per passenger.
+Ok. Can you please find some round trip flights, with a return date of the 13th of March?
+I located a Delta Airlines flight that departs at 7:55 pm and the return flight departs at 1:25 pm. The cost is $372 per ticket.
+All right, thank you.
+Can I help you with anything else?
+No, thank you for your help.
+You're welcome. Have a nice day.
+I need a one way flight.
+What is the departure and arrival cities?
+I depart New York and arrive San Diego and prefer Premium Economy.
+What are you travel dates?
+I depart on March 10th.
+I have a Southwest Airlines flight at 6:25 am with 1 layover for $502.
+How many bags can I check and I need 2 tickets.
+I reserved 1 ticket and 0 bags are permitted.
+I want round tickets for 2.
+What day would you like to return?
+I want to return March 13th.
+I have a Southwest Airlines departure at 6:25 am with a return of 7:10 pm for $836.
+Thanks that is all for today.
+Have a great day.
+Find me please one way flight.
+Where you want to go?On witch city will be the depart and in what date?
+From Phoenix to Sydney today.
+You like American Airlines ?Because I found one at 9:30 am locat time with 1 layovers.The total cost is $345 per ticket.
+Tell me on witch airport do the flight leave from and if will arrive the day after?
+From Sky Harbor International Airport will live and will arrive on next day.
+Find for me something else.
+What about Delta Airlines ?The cost will be $337 per passenger and have 1 layovers.You can take it at 7:55 pm.
+I understand.Find me round trip flight at Economy class .I have zero bags to check in.
+In what day will be the return flight?
+Will be on 3rd of March.
+1 flight I have found with Delta Airlines at 7:55 pm and return at 3:55 pm local time.Cost will be $615.
+I understand.The information is sufficient. Thank you very much.
+Have a great day!
+I need a one-way flight.
+Where will you be leaving from, and what day?
+I want to fly out of Atlanta on the 7th of this month.
+Where to?
+I want to go to Phoenix.
+There's an American Airlines flight leaving at 9:30 am local time. It has 0 layovers and costs $146 per ticket.
+No, find something else.
+I have a Delta Airlines flight leaving at 9:35 am local time. It has 0 layovers, and is $179 per ticket.
+No, something else.
+I have a Southwest Airlines flight leaving at 6:35 pm local time. It has 1 layover and costs $265 per ticket.
+Where does it land?
+The flight arrives at Sky Harbor International Airport.
+Is this for one passenger?
+Yes, it's for 1 passenger.
+Let's look at round-trip flights.
+What day do you want the return flight for?
+I want to return on March 9th.
+There's a Southwest Airlines flight that leaves at 6:35 pm local time. The return flight leaves at 9:15 am local time. Tickets are $396 each.
+Okay, thanks, that's all I need.
+Have a nice day.
+I have just completed my overseas project and want go back home. Could you please find me a one way flight?
+Where will you be travelling to?
+My destination is Chicago.
+Please tell me your departure city and your preferred date of travel.
+Please find flights departing from Sydney. I'd like Economy class tickets on a flight leaving on 12th of this month.
+I've found one 1 flight you may like. Would you consider taking a Delta Airlines flight with 1 layover, taking off at 3:55 pm local time, at a cost of $405 per passenger?
+That sounds good, but I've just been informed that my team's expertise will be required on an extension of the just concluded project, and therefore I need to accompany 2 other team members to and from Sydney. Please find me three seats on a round trip flight.
+When would you like to take the return flight?
+I'm planning on returning on the 14th of this month.
+How about a Delta Airlines flight taking off at 3:55 pm local time, with a return flight scheduled for 7:05 am, at a cost of $740 per passenger?
+Please let me know the departure airport.
+The flight departs from Kingsford Smith International Airport.
+Sounds good. That will be all.
+Have a lovely day.
+Can you help me find 3 tickets for a one way flight for the 2nd of March?
+What is the destination?
+Washington and I want to fly with Delta Airlines.
+What is departure city?
+Departure city is Atlanta.
+I have a Delta Airlines flight that departs at 5:55 pm with 0 layover and costs $107.
+How about a round trip flight?
+What is return date?
+I want to return on March 4th
+I found 1 flight. A Delta Airlines flight with a 5:55 pm departure and return at 6:25 pm that costs $228.
+Thanks that is all for today.
+Have a great day.
+Can you help me find a one way flight?
+Which city do you want to depart from?
+I would like 4 seats, departing from Phoenix.
+What date would you like to travel?
+I plan to fly out on the 2nd.
+What is the planned destination?
+I am flying to Seattle.
+I found a flight on American Airlines with 1 layover that departs at 10:45 am and costs $224 per ticket.
+Can you please find me another flight?
+I have located a flight on Southwest Airlines with 1 layover that departs at 1:35 pm and costs $257 per ticket.
+What is the class of the ticket and what airport does it land at?
+It is an economy seat and arrives at the Seattle-Tacoma International Airport.
+Please find me something else.
+I have located a flight on United Airlines that has 1 layover that departs at 5:05 pm and costs $241 per ticket.
+All right. Can you please find me a round trip flight, and I have 0 bags to check.
+What day are you looking to return?
+I plan to return next Monday, and can the flight be economy?
+I have located 1 flight for you on United Airlines. The flight departs at 5:05 pm and the return flight departs at 10:45 am. The cost per ticket is $457.
+What airport does the plane take off from and land at?
+The flight departs from Sky Harbor International Airport and lands at Seattle-Tacoma International Airport.
+All right, thank you. That is all I need for now.
+Ok, have a good day.
+Help me find a one way economy flight on the 6th of March
+Where are you headed? And where are you leaving from?
+I'm leaving from Phoenix and going to New York
+How about flying on a Southwest Airlines flight at 4:10 am with 1 layover and costing $311
+I want to find a round trip instead, make my return the 8th of March
+OK, what about this Southwest Airlines flight leaving at 4:10 am and a return flight leaving at 6:25 am costing $609 a head.
+When does that flight arrive and which airport will I leave from?
+You'll arrive at 3 pm and leave from Sky Harbor International AIrport.
+Alright that's it for now
+Great, have a great day
+Will you find me one way flights to Sydney?
+What date?
+11th of this month.
+Which city?
+Los Angeles.
+I found 5 flights. One of them is Alaska Airlines that takes off at 11:30 am with 0 layovers. It costs $198 per passenger.
+Anything else?
+How about American Airlines for $233 per passenger that takes off 12:10 pm with 0 layovers?
+Will you find something for four people?
+I found Delta Airlines for $312 per passenger that takes off at 4:35 am with 1 layover.
+I would like round trip flights.
+Which day is your return flight?
+13th of March.
+I found 1 flight on Delta Airlines for $477 per passenger that takes off at 4:35 am. Return flight takes off at 2:50 am.
+Does the flight arrive the day after?
+Yes, it arrives at its destination the next day.
+Great.
+Anything else?
+No, that's all.
+Have a wonderful day.
+Can you help me find a one way flight?
+Sure. What date and what city are you coming from?
+I'm looking for a flight from San Francisco with United Airlines leaving on the 4th of this month.
+Where you planning to go?
+I'm headed to Chicago
+I found 1 flight via United Airlines that leaves at 11 pm and has 0 layovers that will cost $157
+Alright, what about a round trip with a return Wednesday next week. Find me an economy class ticket.
+I found 1 flight with United Airlines that leaves at 11 pm and a return flight at 7:45 am. It'll cost $426
+Can I check in two bags? What airport does it leave from?
+0 bags are allowed, and the flight leaves from SFO International Airport
+Alright, that's it for now
+Got it, take care
+I need to attend a function in my cousin house. so i need to travel. Will you find a one way flight?
+From which city you want to depart?
+I need to depart from San Francisco. I wish to fly with American airlines to London.
+In which date would you like to travel?
+It should be on Wednesday next week
+There is 1 flight that suits your needs. It is an American Airlines and flight depart at 6 pm local time and the itinerary has 1 layovers and its costs is $373 per passenger.
+Ok thats great. Will you find round trip flights?
+In which date do you want to take the return flight?
+It should be on next Friday.
+Ok You wisht to fly with American airlines and flight takes off at 6 pm local time and return flight takes off at 2 am local time. it costs is $742 per passenger.
+Thanks, it sounds good to me
+Take care have a great day
+I'm going on vacation pretty soon. Can you find me a one seat one-way flight?
+What is your planned date of departure, and what is your intended destination?
+I plan on flying to Philadelphia on the 12th of March.
+What city do you plan on departing from?
+I will be leaving New York.
+Do you want to take a flight from American Airlines? It leaves at 7:55 am local time, has 0 layovers, and a ticket costs you $64.
+At what time will the flight arrive at Philadelphia?
+It takes about an hour. Specifically, it will land at 8:46 am local time.
+What airport will the flight go to?
+It will land at PHL International Airport.
+Got it. I'd like to find a round trip flight.
+On what day do you plan on going back to New York?
+I intend on returning on the 14th.
+I found 1 flight that suits your needs, hosted by American Airlines. It takes off at 7:55 am local time, whereas the returning flight takes off at 8:45 pm local time. A ticket for the flight costs $123 per passenger.
+Good to know.
+Is there anything else I can help you with?
+Not now. Thanks.
+Have yourself a wonderful day.
+Can you help me find a one way flight?
+Where are you planing to go? And which city are you leaving from and when do you want to travel?
+I'm flying to Toronto from Chicago on the 11th
+I found 3 flights. How about a American Airlines flight leaving at 3:50 pm with 0 layovers for $93
+What about a round trip flight, with 0 bags to check in?
+Which day do you want to take the flight back?
+I want to go back on March 13th
+How about flying on American airlines with a 3:50 pm take off and a 10:45 am return flight for $185?
+Where does the flight land? And does it arrive on the next day?
+The flight arrives same day at Toronto Pearson International Airport
+Alright that is all I need
+Have a good one
+My long awaited vacation is coming up. I want 4 seats on a one way flight aboard Delta Airlines.
+When would you like to make the trip? Where would you be heading and from which city would you be leaving?
+I want to fly from New York to Seattle on the 3rd of March.
+There is 1 flight available on Delta Airlines that leaves at 7:10 pm. There would be 1 layover and the price is $301.
+What is the name of the airport that I would be departing from?
+The flight leaves JFK International Airport at 1:17 am.
+That would be fine. I would need a round trip flight.
+When would you like to return?
+On Tuesday next week.
+There is 1 flight available on Delta Airlines. It leaves at 7:10 pm and returns at 8:05 am local time. The price of the ticket is $564.
+That would be First Class seat?
+It is an Economy ticket.
+Ok. Thanks. That would be all.
+Enjoy your day.
+I'm looking for a one way flight for an upcoming trip I have. Can you help?
+Sure, I just need to know where you are departing and arriving at.
+I am going to be traveling from Seattle to San Francisco.
+Great, and what dates are you looking to travel on?
+I need to leave on the 8th of this month.
+I found a flight with Alaska Airlines, departing at 11:35 pm with 0 layovers, and the total price is $135. How does that sound?
+That will not work. Can you find me something different?
+I also have an American Airlines flight that departs at 7:50 pm has 0 layovers, and costs $121. Are you interested in that one?
+Can you find me something else that is economy class. I have zero bags to check if that helps.
+What about Delta Airlines? That flight departs at 8:25 pm, with 0 layovers, and the ticket costs $121.
+How about round trip flights that return on the 10th?
+There is 1 flight matching that criteria. It is Delta Airlines, the departure time is 8:25 pm, the return flight takes off at 2:30 pm, and the ticket price is $241 per per person.
+What times do the two flights arrive at their destinations?
+The destination flight arrives at 10:36 pm and the returning flight arrives at 4:41 pm.
+Okay, thanks for your help. That will be all.
+Have a good day and a safe trip!
+Can you help me find a one way United Airlines flight
+What date do you want to travel?
+How about next Tuesday
+What city do you want to leave from?
+Let's find flights from Phoenix
+Ok got it, and where are you headed?
+I'm going to New York
+I found 1 flight with United Airlines that leaves at 6:10 pm and has 1 layover. It'll cost $331, how does that sound?
+Does it arrive the next day? And can I check in one bag?
+You're allowed 0 bags unfortunately. And the flight does arrive the next day.
+Great, now find me a round trip flight with a March 7th return date
+Is this United Airlines flight that leaves at 6:10 pm and returns at 5:15 am and costs $560
+When does that flight arrive? And how many passengers can you book?
+This is for 1 passenger and it arrives at 6:20 am
+Alright, that's all I need
+Great, have a good one
+I want an Economy one-way flight
+Where are you going to and from
+I want to go to Los Angeles from Delhi
+When are you going?
+I wan to fly with American Airlines on the 10th of March
+There is an American Airlines flight at 7:40 am with 1 layover for $393 per person.
+When does it arrive?
+It gets in at 10:30 am local time.
+Can you get this for one person?
+Yes for 1 passenger
+Ok, good
+Do you need any other help?
+I want a round trip that returns on the 14th of March
+Do you want to fly with American Airlines, which takes off at 7:40 am and the return leaves at 11:35 am local time. It will cost $797 per person
+Ok, thanks that's all
+Ok, have a good day.
+I have a plan for a short trip for which I need to search for an one way flight.
+When and where are you leaving from and which city do you like to visit?
+I am planning to visit Chicago from New York on next Wednesday and I need a flight from American Airlines.
+I found 1 result that is a flight from American Airlines which leaves at 8:50 am local time with ticket cost $129 for single person and it has 0 layovers. Is that okay with you?
+From which Airport the flight leaves and when it reaches the destination?
+Origin Airport is JFK International Airport and the flight will reach the destination on the same day.
+That is okay, can you search for a round trip flight?
+When do you like to book the return flight?
+returning date will be 8th of March.
+What about a flight with American Airlines leaves at 8:50 am local time and the returning flight time is 9:40 am under ticket cost $232 per person? Is that convenient to you?
+What is the time of arrival of return flight?
+It is at 12:59 pm, Is that okay to you?
+Thanks for your information.
+Anything else you want?
+No, that's all now.
+Have a great day.
+I have a plan for a short trip and I need to book flight for which I need your help, can you search for an one way flight?
+Yes, I can search and let me know the start and end place of your trip.
+Ya, need flight from San Francisco to Mexico City, Is that possible?
+Yes, of course, and also let me know the date of visit, so that I can search?
+trip will be on 11th of March, please search accordingly.
+What about a flight with Alaska Airlines which leaves at 11:05 am local time and with itinerary has 0 layovers?. The ticket cost will be at $154 per person.
+Please search for some other flights and I have zero bags to carry.
+Found 3 results and one is a flight with American Airlines which takes off at 10:10 pm with itinerary 0 layovers for which the ticket price will be $175 per person. Is this information useful?
+That is okay but I need to search for round trip flights for three persons.
+When is the return date?
+Return date will be 13th of this month.
+1 American Airlines flight which leaves at 10:10 pm and the return flight takes off at 11:40 am local time which costs $317 per person. Is that okay?
+Thanks and all are useful information to me.
+Have a wonderful day.
+I want to find a one way flight from San Francisco, can you help me out?
+What is your destination?
+I want to fly to Seattle?
+When will you be traveling?
+I want to travel on the 6th, on an economy flight.
+Would you be interested in Alaska Airlines, it has 0 layovers and will depart at 9:55 am, only costing $138 per passenger?
+Can you find me something else, I specifically want 2 seats for this flight?
+How about a American Airlines from 4 flights, it costs $125 per person with 0 layovers, and will leaves at 9:30 am?
+Where will the plane arrive?
+The plane will arrive at Seattle-Tacoma International Airport.
+Will it arrive the day after?
+The flight arrives at the destination on the same day it departs.
+Can you find me something else?
+How about Delta Airlines, it leaves at 2:30 pm, and it costs $133 per person with 0 layovers?
+That sounds all right.
+Is there anything else I can help you with?
+Can you find me round trip flights?
+On what day are you planning on taking a return flight?
+I want to return on the 8th.
+There is 1 flight available on Delta Airlines, it will take off at 2:30 pm and its return flight will leave at 8:25 pm. Ticket prices are $239 per person, is that alright by you?
+That sounds great, thanks.
+Will that be all I can help you with?
+Yes, that is all, thanks for your help.
+Hope you have a good day.
+I have some long over due vacation time approaching and would like to book a one way flight.
+I'm happy to help you with that. Can you tell me the dates you are looking to travel, where you want o depart from, and the location of your destination do I can narrow down the search for you?
+I would like to depart from Chicago on the 1st of this month and will be traveling to Washington. My preferred airline is Delta Airlines.
+I was able to find 1 flight with Delta Airlines that has 0 layovers, is $109 per ticket, and departs at 2:30 pm. Has does that flight sound?
+What date and time will the flight arrive at my destination?
+That particular flight arrives at your destination on the same day as the departure at 5:28 pm.
+Okay, now can you look into some round trip flights for me?
+Sure, what day do you want to return?
+For the return flight I will need a total of 3 economy class seats that returns on the 3rd of March.
+Delta Airlines currently has a flight that leaves at 4:05 pm, the return flight departs at 4:20 am, and the total cost of the tickets are $309 each.
+Okay
+Can I find anything else for you?
+Nope, that is all I needed for now. Thanks for the help.
+You're welcome, I'm happy to help.
+Can you get me some Premium Economy one-way tickets?
+Okay, I'll need to ask you for a little more information to help you: Where will you be leaving from, where would you like to go, and what is your preferred date to travel on?
+I'm leaving from Chicago and going to Phoenix - I'm leaving March 8th.
+How about American Airlines? There's a flight leaving at 8:25 am with 1 layover for $442 per ticket.
+Maybe. Can you look for some round-trip flights too?
+What day would you like to return on?
+I'd be returning on the 10th.
+Okay, I have an American Airlines flight here that takes off at 8:25 am and returns at 9:30 am, it's $899 per ticket.
+Alright, when does the return flight arrive at the airport? Where does it land?
+The flight will land at Sky Harbor International Airport, it arrives at 7:22 pm.
+Okay, good, that's all I need.
+Have a great day.
+I am looking for a one-way flight, please.
+What date are you wanting to travel?
+I want to fly this Saturday
+Which city are you departing from and where are you going?
+Look for flights from Chicago to Washington, please.
+Would you like to fly with American Airlines or someone else? There is one here that takes of at 9:40 am with 1 layover and costs $194 per ticket.
+Alright, scrap that. I want a round trip. I have zero bags and all I want is 1 seat.
+Which day would you like to take this return flight?
+I want to return next Monday.
+I have 1 flight just for you. American Airlines, take off at 9:40 am local and return at 6:40 pm local. It will cost $293 per person.
+All right that sounds like a plan.
+Can I do anything else for you?
+No, that is all I need.
+Have a fantastic journey.
+I will be traveling soon with some friends. I need four one way flight tickets from any airline.
+What is your departure date and from where are you leaving? What is the destination?
+We will be departing on the 10th of this month from Seattle with destination to Chicago.
+Is Alaska Airlines alright for you? There is a flight that takes off at 11:10 am with a price of $322 per ticket. It has 1 layover.
+Is there antyhing else? There are 0 bags to check in.
+There are 4 flights that match your criteria Is American Airlines alright for you? There is a flight that takes off at 10:35 am with a price of $183 per ticket. It has 0 layovers.
+Find something different and find two seats.
+Is Delta Airlines alright for you? There is a flight that takes off at 8:05 am with a price of $156 per ticket. It has 0 layover.
+Which airport does it depart from?
+It departs from Seattle-Tacoma International Airport.
+When does it arrive and is it a Business class ticket?
+It is an Economy class ticket and the flight arrives the same day it departs.
+Thinking about it, I need a round trip flight.
+What is the return date?
+I want a return date of March 12th.
+Is Delta Airlines alright for you? There is a flight that takes off at 8:05 am and the return flight takes off 5:45 am with a price of $436 per ticket. It has 0 layover.
+That sounds good.
+Is there something else I can help you with?
+No, that would be all.
+Have a great day.
+Can you help me find a one way flight please
+Where are you headed? And where are you leaving from?
+I'm going from New York to Seattle.
+What is your travel date?
+I want to fly out on the weekend, this Sunday
+I found 4 flights that work. How about this American Airlines flight that leaves at 5:10 pm and ha 1 layover. It costs $325
+Find me another option
+How about with Delta Airlines? Also has 1 layover that costs $301 and leaves at 7:10 pm
+Where does it land? And is this ok for two passengers?
+This is just for 1 passenger, and it's headed to Seattle-Tacoma International Airport
+Find me an economy class ticket instead
+I found 2 flights that work. How about Southwest airlines with 1 layover and a 6:25 am departure for $298
+Yes that works, but find me a round trip flight
+When do you want to return?
+I'm coming back next Tuesday
+I found 1 flight that works via Southwest Airlines and leaves at 6:25 am local time. The return flight leaves at 3:05 pm and will cost $592 per head.
+All right then
+Can I help with anything else?
+No, that's it thanks
+Have a good trip!
+I am interested in finding a one way flight.
+Where do you prefer to leave?
+To Atlanta I will fly.
+The departure will be made from what city?
+From San Francisco on 8th of this month.American Airlines is perfect for me.
+1 flight is available according to your preferences.With American Airlines at 7:15 am locat time with itinerary 0 layovers.Cost of the ticket is $174.
+I understand.Find me round trip flights.
+In witch day you want to take the return flight?
+I want to be on March 10th.
+I have 1 option with American Airlines at 7:15 am and return take off at 11 am local time.Cost per passenger is $459.
+OK.I see!
+Anything else I can do for you?
+No is enough for now. Thanks!
+Have a great day!
+I need a one way flight leaving on the 12th of March.
+What is your departure city and destination?
+I'm leaving from San Francisco and going to Atlanta.
+Alaska Airlines has a 3 pm flight with 0 layovers. The ticket costs $174 per passenger.
+Can you find me something else? I need three Economy class tickets.
+I found 4 flights. American Airlines has a 7:15 am flight with 0 layovers for $208 per passenger.
+Anything else? I need two seats, preferably on Delta Airlines.
+I found you 1 flight with 1 layover on Delta Airlines. It departs at 4:05 pm local time and costs $273 per passenger.
+What are the departure and arrival airports?
+The flight departs from SFO International Airport and arrives at the Hartsfield-Jackson International Airport.
+Good. I want round trip flights.
+What is your return date?
+The 14th of March.
+I found you 1 flight on Delta Airlines. It departs at 4:05 pm local time and the return flight departs at 7:55 pm local time. The ticket is $561 per passenger.
+All right.
+Can I help you with anything else?
+No. Thanks for your help.
+Your welcome. Have a nice day.
+Please help me find 2 seats on a one way flight, with zero bags to check in.
+When would you like to to fly out?
+I'd like to depart on 7th of this month.
+Please let me have you destination.
+I'll be going to Philadelphia. The ticket class doesn't matter.
+May I have your origin city?
+Please search for flights from Vancouver.
+Your search has yielded 2 flights. Do you like flying on Delta Airlines? They have seats costing $314 per passenger on a flight with 1 layover, leaving at 2:30 am local time.
+That sounds good, but I've just been asked to attend a job interview in Vancouver on the 10th of March. Please find me round trip tickets.
+Sure, no problem. When would you like to return?
+I would like to return on March 9th so that I can make it to my interview.
+Okay, I've found 1 flight that you may like. How does Delta Airlines sound? They have seats available on a flight taking off at 2:30 am local time,with a returning flight scheduled for 4:05 pm local time, at a cost of $876 per seat.
+Sounds good.
+Will there be anything else?
+No. Thank you very much. You've been very helpful.
+Have a great day.
+I want to find a one way economy ticket.
+Where are you planning to go, and which city are you leaving from? Also what are your travel dates?
+I want to fly out next Wednesday from Toronto to Atlanta
+Would you like to fly on Air Canada at 4:30 am with 1 layover and wil cost $217 again.
+When does the flight arrive at my destination?
+It gets it at 12:37 pm local time
+Find me another flight
+How about a 1 layover. 2:20 am flight via American Airlines that costs $223
+Sure, how many tickets?
+I'm traveling solo, so just for 1
+Great, now find me some round trip flights with a March 8th return. I have 0 bags to check
+I found 1 flight on American Airlines that leaves at 2:20 am and has a return flight at 9:40 am. It'll cost $421
+Sure, that's all I need at the moment.
+Got it, have a good one
+Find me please one way flight to San Francisco.
+In which city you will depart and what will be the date?
+I want to go from Philadelphia with 0 bags.The fly out will be on the 1st.
+3 flights i found for you.American Airlines you can take at 2:35 pm local time and have 1 layovers.Price for one ticket is $308.
+Good.Find me round trip flights please.
+In which day you want to be the return?
+On 3rd of March I plan to retun.
+What about American Airlines ?You can take it at 5:50 pm and return at 5 am both will be at local time .Cost will be $573 per ticket.
+I understand. Thanks for the information.
+Have a great day!
+Find me a one way flight.
+Where are you going?
+I am going to Las Vegas on March 7th.
+Where are you departing from?
+I have zero bags and want to depart from Seattle.
+I found an Alaska Airlines flight with 1 layover that leaves at 7:30 am and costs $215 per person.
+What else do you have?
+I found an American Airlines flight with 1 layover that departs at 1:40 pm and it costs $253 per person.
+What airport does it land at?
+It lands at McCarran International Airport.
+Did you say this was for 2 people?
+This is for 1 person.
+That works. Can you find round trip tickets?
+When are you returning?
+I want to get back on March 9th.
+Search revealed 1 flight. It is an American Airlines flight that departs at 1:40 pm and the second flight departs at 1:55 pm. It costs $454 per person.
+Does the flight land the next day?
+It arrives on the same day.
+Thanks a lot.
+Do you need anything more?
+No, that is all. Thanks.
+Have a fantastic day.
+Can you help me call a cab please?
+How many people do you need? And is a shared right ok?
+Yes shared ride for one is good
+Where are you headed?
+I'm trying to get to Wang Wah
+So please confirm that you need a shared cab for 1 person to Wang Wah yes?
+That's right. How long is the ride and how much is it?
+It's gonna cost $11.08 and will take around 9 minutes. Your cab is on the way
+Thanks for your help
+Do you need anything else?
+No for now we're great.
+Enjoy your cab ride
+I want to call a cab
+Sure, where are you heading?
+I am going to 5434 Ygnacio Valley Road #90
+How about a shared ride?
+That works for me
+How many people are travelling?
+Actually, I need to go to 1546 Maurice Lane. Just one person
+Ok, so you want a cab for 1 going to 1546 Maurice Lane?
+That is correct
+Ok, that cab is on its way
+Awesome, thank you
+You're welcome, anything else?
+That's all I need
+Have a great day
+Can you help me find a cab for 3 people?
+Are you looking for a shared ride? What is your destination?
+A shared ride is fine. I'm going to Matador.
+So that's a shared ride for 3 people to Matador.
+Actually I need to go to Iberia instead.
+Okay so that's 3 people travelling to Iberia.
+Yes that's correct.
+Your cab has been successfully booked.
+How long will the journey take?
+It will be around 7 minutes depending on traffic.
+Thanks a lot.
+Do you need help with anything else?
+No thanks, that's all for now.
+Enjoy your day.
+Call me a cab please. Going to Hop Creek Pub. It can be a shared ride.
+How many people are going?
+Just one
+Please confirm: a shared ride to Hop Creek Pub for 1 person?
+Yes that's right. How much is it?
+Your ride will be here soon. It costs $14.57.
+Thanks so much
+Here to help anytime
+Can you please help me contact a cab?
+Where do you want a ride to and for how many people?
+I need the ride for one person and I am going to CineLux Delta Cinema Saver.
+Would you like a shared ride?
+I am ok with a shared ride.
+Please confirm the following details: Scheduling a shared ride for 1 person to go to the CineLux Delta Cinema Saver.
+Yes, that is correct.
+Your ride is booked and the cab is on the way.
+How much is the cost?
+The cost is $8.00.
+Thank you for your help, that is all I need.
+Have a great day.

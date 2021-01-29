@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="allBody">
+      <div class="introduction">
+        <h1 class="introText">Yoda<br />Assistant</h1>
+      </div>
+      <div class="noInternet">
+        <h1 class="loadText">No internet!</h1>
+      </div>
+      <div class="noPython">
+        <h1 class="noPythonText">Python is required for running this app, we could not find python installed on your system, please download python:</h1>
+        <div class="options">
+          <div class="option" onclick="microsoftPython()">
+            Use the microsoft store
+          </div>
+          <div class="option" onclick="webInstallPython()">
+            Install from the web
+          </div>
+          <div class="option" onclick="nextPython()">
+            I have installed python
+          </div>
+        </div>
+      </div>
+      <div class="load">
+        <h1 class="loadText">Initializing...</h1>
+      </div>
+        <div class="topRow">
+          <div class="draggable" style="-webkit-app-region: drag;">
+
+          </div>
+          <div class="exitBtns">
+            <div class="minimize menuBtn" onclick="minimize()"><p>-</p></div>
+            <div class="exit menuBtn" onclick="exitApp()"><p>X</p></div>
+          </div>
+        </div>
+
+        <div class="messagesDisplay">
+          <div class="emptyState">
+            <img src="./yodaEmptyState.png" class="emptyImage"/>
+            <p class="emptyText">
+              Looks like your history is empty!<br />Click "Win+Y" to access Yoda from anywhere, and start talking, or tell him commands.<br />
+              Some commands:<br />
+              Open app,<br />
+              Random Quote,<br />
+              Try: "Open Google"
+            </p>
+          </div>
+          <!-- <div class="yodaMessage message loadBox">
+            <img src="animationload.gif" class="loadGif"/>
+          </div> -->
+        </div>
+
+        <div class="textDisplay">
+          <p class="liveText">Help you I can, yes, hmmmmmm</p>
+        </div>
+        <div class="voiceCont">
+          <canvas id="canvas" width="300" height="80"></canvas>
+        </div>
+        <div class="bottomButtons">
+          <div class="bottomBtn" onclick="startListening()">
+            <img src="recordBtn.png" class="imgBtn pointer"/>
+          </div>
+          <input type="text" class="textBox" placeholder="Talk to yoda"/>
+          <div class="bottomBtn" onclick="sendMsg()">
+            <img src="sendBtn.png" class="imgBtn"/>
+          </div>
+        </div>
+        <!-- <div class="textBoxCont">
+
+        </div> -->
+    </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
+    <script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript">
+    </script>
+  </body>
+</html>

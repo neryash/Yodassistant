@@ -1,0 +1,25 @@
+{
+  "name": "yoda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  },
+  "dependencies": {
+    "decibel-meter": "^2.0.0",
+    "installed-win-apps": "^1.0.12",
+    "open": "^7.3.1",
+    "python-shell": "^2.0.3",
+    "request": "^2.88.2",
+    "sound-play": "^1.1.0",
+    "win-audio": "^2.0.2"
+  }
+}
