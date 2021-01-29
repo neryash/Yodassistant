@@ -27,4 +27,5 @@ In addition to being an extremely helpful virtual assistant, Yodassistant also a
 DOWNLOADING
 In order to download Yodassistant, go to the following link - https://neryasheetrit.itch.io/yodassistant.
 From there, you'll download a .zip file, which you can either extract or not. For multiple uses, extraction is best since it offers the ability to save as to not have to go through the initialization process every time.
+To open Yodassistant, you must open the file named "yoda.exe"
 Regarding the initialization process, please allow some time for the app to start.
