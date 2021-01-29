@@ -2,7 +2,7 @@
 ### Here you will find descriptions regarding the project itself and all the cool things you can do with it, and also instructions on how to install it.
 
 ## THE PROJECT
-Team Yodassistant is a group of four people - Nerya (Nehr yah), Ido (ee dough), Dolev, and Ariel. We area couple of friends that decided to join the Timathon, in hopes of creating the world's most Yoda-like virtual assistant. We primarily used JavaScript and Python to code the project (also ElectronJS).
+Team Yodassistant is a group of four people - Nerya (Nehr yah), Ido (ee dough), Dolev, and Ariel. We are a group of friends that decided to join the Timathon, in hopes of creating the world's most Yoda-like virtual assistant. We primarily used JavaScript and Python to code the project (also ElectronJS).
 We believe that Yodassistant delivers on that front, by not only using a chatbot to communicate with the user as Yoda himself, but also we added incredibly realistic drawings of him, so that you can feel as if Yoda actually is right in front of you!
 
 
